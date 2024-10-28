@@ -1,28 +1,21 @@
 # sql-challenge
 UCB Data Analytics-Challenge 9
 
-CHALLENGE PURPOSE: In this challenge, xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+CHALLENGE PURPOSE: In this challenge, use of ERD creation and use of SQL writing is demonstrated.
 
-# References
-This challenges dataset comprises xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
-# Technologies Used: xxxxxxxxxxxxxxxxxxxxx
+# Technologies Used: QuickDB, SQL, python ( to stadardize a column name ) 
 
 # Code
-Source Code stored in this repo demonstrates xxxxxxxxxxxxxxxxxxxxxxxxx :
-
-     a) xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-     b) xxxxxxxxx
-     c) xxxxxxxxxxxxxxxxxxxxxx
-     d) xxxxxxxxxxxxxx
-**xxxxxxx: https://github.com/riosrose/ 
-
-This file contains the ............:
-
-     a) xxxxxxxxxxxxxxx: xxxxxxxxxxxxxxxxxxxxxx
-     b) xxxxxx: xxxxxxxxxxxxxxxxxxxx
-**xxxxxxxxxxxx: https://github.com/riosrose/xxxxxxxxxxxxxxxx
-
+Source Code
+     a) Data folder comprised of
+          - the provided data sets: as noted in the Data Dictoinary
+          - titles_csv column rename.csv = used to standardize a column name
+          - ERD Diagram image
+          - image= data dictinoary snapshot
+     b) EmployeeSQL
+          - assignment_only_script = SQL to complete the assignment
+          - entire_script = ERD table sql and SQL to complete the assignment
+          
 # Data Dictionary and ERD Relationships 
  ![image](https://github.com/user-attachments/assets/4a671a2e-0cd5-4e0d-a62c-dbba9d001911)
 
@@ -40,4 +33,4 @@ This file contains the ............:
      * employees and dept_manager: Many-to-one relationship. An employee can be a manager of many departments.  
 
 # Resources
-Resources utilized for support with debugging, and clarifications of code: Xpert Learning and Gemini AI where needed.
+Resources utilized for support with debugging, and clarifications of code: Xpert Learning, quickdb help file and Gemini AI where needed.
