@@ -24,7 +24,8 @@ This file contains the ............:
 **xxxxxxxxxxxx: https://github.com/riosrose/xxxxxxxxxxxxxxxx
 
 # Data Dictionary and ERD Relationships 
-![alt text](image-1.png)
+ ![image](https://github.com/user-attachments/assets/4a671a2e-0cd5-4e0d-a62c-dbba9d001911)
+
 
 
 
