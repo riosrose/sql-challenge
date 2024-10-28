@@ -23,10 +23,20 @@ This file contains the ............:
      b) xxxxxx: xxxxxxxxxxxxxxxxxxxx
 **xxxxxxxxxxxx: https://github.com/riosrose/xxxxxxxxxxxxxxxx
 
-The file contains ccccccccccccccccccccccccc:
+# Data Dictionary and ERD Relationships 
+![alt text](image-1.png)
 
-     xxxxx
-     xxxxxx 
+
+
+
+# Explanation of Relationships:
+- Relationships
+     * employees and salaries: One-to-many relationship. An employee can have many salary records over time.
+     * employees and titles: One-to-many relationship. An employee can have many titles over time.
+     * employees and dept_emp: Many-to-many relationship. An employee can belong to many departments, and a department can have many employees.
+     * departments and dept_emp: Many-to-many relationship. A department can have many employees, and an employee can belong to many departments.
+     * departments and dept_manager: One-to-many relationship. A department can have only one manager at a time.
+     * employees and dept_manager: Many-to-one relationship. An employee can be a manager of many departments.  
 
 # Resources
 Resources utilized for support with debugging, and clarifications of code: Xpert Learning and Gemini AI where needed.
